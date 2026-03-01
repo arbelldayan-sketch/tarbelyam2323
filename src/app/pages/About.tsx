@@ -193,7 +193,7 @@ export default function About() {
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               <div className="aspect-square overflow-hidden">
                 <img
-                  src="figma:asset/33d0584764dd7544a3ac30c60883d3d91e226476.png"
+                  src="https://placehold.co/400x300?text=Team"
                   alt="חבר צוות"
                   className="w-full h-full object-cover"
                 />
@@ -212,7 +212,7 @@ export default function About() {
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               <div className="aspect-square overflow-hidden">
                 <img
-                  src="figma:asset/583de7165696949e7dd322ff58f9870fab4e0093.png"
+                  src="https://placehold.co/400x300?text=Team"
                   alt="חבר צוות"
                   className="w-full h-full object-cover"
                 />
@@ -231,7 +231,7 @@ export default function About() {
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               <div className="aspect-square overflow-hidden">
                 <img
-                  src="figma:asset/aa8d76b59601c04f200377d90773fbf838241dd2.png"
+                  src="https://placehold.co/400x300?text=Team"
                   alt="חבר צוות"
                   className="w-full h-full object-cover"
                 />
@@ -250,7 +250,7 @@ export default function About() {
             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               <div className="aspect-square overflow-hidden">
                 <img
-                  src="figma:asset/e458fb8274e28a9bbcd64613d0d307b3a2e99992.png"
+                  src="https://placehold.co/400x300?text=Team"
                   alt="חבר צוות"
                   className="w-full h-full object-cover"
                 />
