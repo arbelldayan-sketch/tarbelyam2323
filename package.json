@@ -1,3 +1,4 @@
+
 {
   "name": "tashach-yam-website",
   "private": true,
@@ -70,7 +71,7 @@
     "@tailwindcss/vite": "4.1.12",
     "@vitejs/plugin-react": "4.7.0",
     "tailwindcss": "4.1.12",
-    "typescript": "5.0.0",
+    "typescript": "5.3.3",
     "@types/react": "18.3.1",
     "@types/react-dom": "18.3.1",
     "vite": "6.3.5"
